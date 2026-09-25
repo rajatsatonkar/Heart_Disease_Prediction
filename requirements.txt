@@ -1,0 +1,8 @@
+pandas>=1.5
+numpy>=1.23
+matplotlib>=3.5
+seaborn>=0.11
+klib>=1.3
+scikit-learn>=1.1
+xgboost>=1.7
+jupyterlab
